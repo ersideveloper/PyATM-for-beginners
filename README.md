@@ -24,7 +24,7 @@ Linux :
 
 1-Copy code from github
 2-Open Terminal and type: cd Desktop
-4-Type : git clone <code>
+4-Type : git clone https://github.com/ersideveloper/PyATM-for-beginners.git
 5-Type:ls
 6-cd PyATM-for-beginners-master
 7-python atm.py
@@ -34,7 +34,7 @@ Mac OS :
 
 1-Copy code from github
 2-Open Terminal and type: cd Desktop
-4-Type : git clone <code>
+4-Type : git clone https://github.com/ersideveloper/PyATM-for-beginners.git
 5-Type:ls
 6-cd PyATM-for-beginners-master
 7-python atm.py
