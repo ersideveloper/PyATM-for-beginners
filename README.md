@@ -9,11 +9,12 @@ Windows :
 
 1-Download repository form github 
 2-Put the file from download to Desktop
-3-Click on Start-cmd
-4-cd Desktop
-5-Type:dir  You can see downloaded file
-6-cd <downloaded fiel>
-7-python atm.py
+3-Extract the file
+4-Click on Start-cmd
+5-cd Desktop
+6-Type:dir  You can see downloaded file
+7-cd <downloaded fiel>
+8-python atm.py
   
   
 NOTE: You need to install python to do this
