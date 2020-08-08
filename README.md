@@ -13,7 +13,7 @@ Windows :
 4-Click on Start-cmd
 5-cd Desktop
 6-Type:dir  You can see downloaded file
-7-cd <downloaded fiel>
+7-cd PyATM-for-beginners-master
 8-python atm.py
   
   
@@ -26,7 +26,7 @@ Linux :
 2-Open Terminal and type: cd Desktop
 4-Type : git clone <code>
 5-Type:ls
-6-cd <name of folders from code to github>
+6-cd PyATM-for-beginners-master
 7-python atm.py
   
   
@@ -36,5 +36,5 @@ Mac OS :
 2-Open Terminal and type: cd Desktop
 4-Type : git clone <code>
 5-Type:ls
-6-cd <name of folders from code to github>
+6-cd PyATM-for-beginners-master
 7-python atm.py
